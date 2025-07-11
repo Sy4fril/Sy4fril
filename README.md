@@ -4,16 +4,15 @@
   My name is <strong>Syafril</strong> and I'm <em>just an explorer</em> from <strong>Indonesia</strong>. 🇮🇩
 </p>
 
----
 
-## 📌 About Me <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+## 📌 About Me 
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 - ✨ Passionate about programming since **2018**
 - 📚 Currently learning **English** <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" /> and **Java** ☕
 - 🎯 Goal: Become a **Reverse Engineer** and speak **fluent English** 🚀
 - 🎲 Fun fact: I play **Magic Chess GO-GO** and ♟ **online chess**
 
----
 
 ## 🧰 I Code With
 
@@ -22,9 +21,8 @@
   <img title="Java" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 
----
 
-## 🌐 Connect With Me
+## 🌐 Find Me On
 
 <div align="left">
   <a href="https://www.instagram.com/_syafrillll/" target="_blank">
@@ -34,6 +32,3 @@
     <img src="https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
   </a>
 </div>
-
----
-
